@@ -1,0 +1,19 @@
+1
+00:00:00,300 --> 00:00:03,012
+Cut every silence. Automatically.
+
+2
+00:00:03,412 --> 00:00:08,620
+Your raw footage is full of dead air. Long pauses, gaps, wasted minutes.
+
+3
+00:00:09,020 --> 00:00:13,892
+This free tool removes all of it. Just two commands, and every silence is gone.
+
+4
+00:00:14,292 --> 00:00:21,804
+It is 100% free, with over 5,600 stars on GitHub. And it turns hours of cutting into minutes.
+
+5
+00:00:22,204 --> 00:00:26,332
+Edit smarter, not longer. Follow for free editor tools.
